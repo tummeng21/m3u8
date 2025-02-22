@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",Test Dooball66 F1
+#EXTINF:-1 tvg-logo="https://api.blackboxsys.net/images/png/epl-1.png",Test Dooball66 EPL
 #EXTVLCOPT:http-referrer=https://www.ufa191i.com/
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-1&api_key=MIcWPyCpm6maZGJQ
