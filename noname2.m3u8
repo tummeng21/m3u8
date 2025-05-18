@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="PLAYID XTREAM" tvg-id="" tvg-logo="https://iili.io/3262BDJ.png",PLAYID MOVIE 2K/4K
+#EXTINF:-1 group-title="PLAYID XTREAM" tvg-id="",PLAYID MOVIE 2K/4K
 #EXTVLCOPT:http-user-agent=adminplayidtv
 http://45.144.165.187:8080/playidtv/12345/17788
