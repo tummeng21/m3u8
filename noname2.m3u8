@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="PLAYID XTREAM" tvg-id="",PLAYID MOVIE 2K/4K
+#EXTINF:-1 group-title="F1" tvg-id="F1",F1
 #EXTVLCOPT:http-user-agent=adminplayidtv
-http://45.144.165.187:8080/playidtv/12345/17788
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CA:7C:80&stream=83453&extension=m3u8
