@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 group-title="F1" tvg-id="F1",F1
-#EXTVLCOPT:http-user-agent=adminplayidtv
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CA:7C:80&stream=83453&extension=m3u8
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/
+https://dookeela.live/live-tv/skysportsf1
