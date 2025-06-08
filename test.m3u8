@@ -220,30 +220,6 @@ https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-1/play
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/at
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/youtube-5.png" group-title="SIAMZEED",YOUTUBE 5
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/youtube-5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/ngzclAtpbidUq3c0iTjx1lUiU3mkBaYtring4.png" group-title="SIAMZEED",YOUTUBE 4
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/youtube-4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/jJhupsgkStFSyrTdSM2xyfmbOwCdcuKtring3.png" group-title="SIAMZEED",YOUTUBE 3
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/youtube-3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/s5HoWYB0Fyer79qyTvFl2IWzw4hrUS2tring2.png" group-title="SIAMZEED",YOUTUBE 2
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/youtube-2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/I23T11t1hYQcZ4lOgFSst97TGCl0A6Wtring1.png" group-title="SIAMZEED",YOUTUBE 1
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/youtube-1/playlist.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/JrqVc5yxdnvlrcmJUIh3JqdkCl3mRgqtsport7backup.png" group-title="SIAMZEED",สำรอง T Sport 7
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
