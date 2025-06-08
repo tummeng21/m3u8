@@ -1,6 +1,8 @@
+#EXTM3U
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png",Universal
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:14
 #EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,CODECS="avc1.4d401f,mp4a.40.2"
 #EXTINF:10,
 http://49.0.64.96:8007/H-Channel
