@@ -1,3 +1,9 @@
 #EXTM3U
-#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.64002a,mp4a.40.2",AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000
-http://185.235.165.5:80/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1110622&extension=m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://dmtn-tv.com:8080/live/6323fza0503/xzFMrVcwrw/536580.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1B:79:F9:2B:56&stream=1032487&extension=m3u8
+http://trendystream.me:80/play/live.php?mac=00:1A:79:A9:2F:DD&stream=1032487&extension=m3u8
+http://dmtn-tv.com:8080/live/6323fza0503/xzFMrVcwrw/536580.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1B:79:F9:2B:56&stream=1903745&extension=m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1B:79:F9:2B:56&stream=554949&extension=m3u8&
