@@ -1,3 +1,8 @@
 #EXTM3U
-#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.64002a,mp4a.40.2",AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000
-http://185.235.165.5:80/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1110617&extension=m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://line.greatstar.me:80/play/live.php?mac=00:1B:79:F9:2B:56&stream=1903743&extension=m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1B:79:F9:2B:56&stream=554947&extension=m3u8
+http://utrecht030ovc.xyz:80/play/live.php?mac=A0:BB:3E:3D:B0:DF&stream=1110617&extension=m3u
+http://dmtn-tv.com:8080/live/6323fza0503/xzFMrVcwrw/536582.m3u8
+http://sport-birutv.my.id:80/play/live.php?mac=A0:BB:3E:FE:43:81&stream=1110617&extension=m3u8
