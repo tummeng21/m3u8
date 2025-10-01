@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://line.greatstar.me:80/play/live.php?mac=00:1B:79:F9:2B:56&stream=1903743&extension=m3u8
-http://line.greatstar.me:80/play/live.php?mac=00:1B:79:F9:2B:56&stream=554947&extension=m3u8
-http://utrecht030ovc.xyz:80/play/live.php?mac=A0:BB:3E:3D:B0:DF&stream=1110617&extension=m3u8
-http://dmtn-tv.com:8080/live/6323fza0503/xzFMrVcwrw/536582.m3u8
-http://sport-birutv.my.id:80/play/live.php?mac=A0:BB:3E:FE:43:81&stream=1110617&extension=m3u8
+http://trendystream.me:80/play/live.php?mac=00:1A:79:0D:A1:24&stream=1903750&extension=m3u8
