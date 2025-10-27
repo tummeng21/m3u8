@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191736&extension=m3u8
+https://e110.youllneverwalkalone.online/v5/i6cVmUYzJybZpqrxIyqw3Q/1760332460/7ee258af96c58dbcb65133f2f6d99bd3/AjnJ4xoyCg8yhDdH_xk5kg/1756786902/live/dx-origin/hd-tfilm2_720/chunks.m3u8
