@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/8662.m3u8
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1775983&extension=m3u8
+
