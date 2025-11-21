@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13534&extension=m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:a5:dc:3b&stream=1294764&extension=m3u8&play_token=
+
 
 
