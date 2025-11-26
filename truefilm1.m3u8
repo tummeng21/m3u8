@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 http://154.215.14.8:8080/live/iptv591@gmail.com/456672/142.m3u8
