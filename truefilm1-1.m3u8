@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# ตัวหลัก (url ที่ 1)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
+http://119.59.118.159/live/ch5/xxccxgd134/index.m3u8
+
+# สำรองชุดเดียวกัน (url ที่ 2)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
+http://119.59.118.159/live/ch54/xxccxgd134/index.m3u8
+
+# สำรองลำดับสุดท้าย (url ที่ 3)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch3
+http://119.59.118.159/live/ch56/xxccxgd134/index.m3u8
