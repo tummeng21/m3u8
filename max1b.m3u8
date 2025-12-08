@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:1C:1D:F6&stream=1660493&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2"
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776143&extension=m3u8
