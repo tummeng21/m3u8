@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# ตัวหลัก (url ที่ 1)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776054&extension=m3u8
