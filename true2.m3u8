@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000
-http://119.59.118.159/live/ch10/xxccxgd134/index.m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776191&extension=m3u8
