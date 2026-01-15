@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=1660491&extension=ts
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1776177&extension=m3u8
