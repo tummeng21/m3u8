@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776025&extension=m3u8
+https://love.pifipa2974.workers.dev/lx-origin/sd-discovery_720/chunks.m3u8
