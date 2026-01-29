@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+https://love.pifipa2974.workers.dev/lx-origin/sd-explife_720/chunks.m3u8
