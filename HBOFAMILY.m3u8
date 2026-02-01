@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:20:50&stream=563001&extension=m3u8
+https://love.pifipa2974.workers.dev/lx-origin/th-hbofamily_720/chunks.m3u8
