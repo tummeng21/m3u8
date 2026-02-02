@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000
-http://line.greatstar.me:80/play/live.php?mac=A0:BB:3E:6F:1F:0F&stream=83455&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:31:e3&stream=1434780&extension=m3u8
