@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2"
+http://185.191.127.129:2095/play/live.php?mac=10:27:BE:50:77:30&stream=813034&extension=m3u8
