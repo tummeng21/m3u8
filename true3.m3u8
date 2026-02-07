@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000
-https://www.livedoomovies.com/02_sport3_720p/playlist.m3u8
+http://185.191.127.129:2095/play/live.php?mac=10:27:BE:50:77:30&stream=115537&extension=m3u8
