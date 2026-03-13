@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2496000
+#EXTVLCOPT:http-referrer=https://streamx-web.cc/
+https://love.pifipa2974.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
