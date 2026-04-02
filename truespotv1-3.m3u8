@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=941564&extension=m3u8
+#EXTVLCOPT:http-referrer=https://tubtoeball.net/
+https://cdn2.googlecdnforstreaming.live/tubtoeball/spotv/chunks.m3u8
