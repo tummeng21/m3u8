@@ -1,0 +1,36 @@
+
+{
+            "name": "True Sports 2",
+            "image": "https://ball67.com/assets/channels-logo/truesport2.png",
+            "url": "https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8",
+            "referer": "https://www.movie2k.io/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+{
+            "name": "True Sports 5",
+            "image": "https://ball67.com/assets/channels-logo/truesport5.png",
+            "url": "https://www.livedoomovies.com:4431/02_sport5_720p/playlist.m3u8",
+            "referer": "https://www.movie2k.io/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+{
+            "name": "BEIN 1",
+            "image": "https://ball67.com/assets/channels-logo/bein1.png",
+            "url": "https://www.livedoomovies.com:4431/02_epl1_720p/playlist.m3u8",
+            "referer": "https://www.movie2k.io/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+{
+            "name": "BEIN 2",
+            "image": "https://ball67.com/assets/channels-logo/bein2.png",
+            "url": "https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8",
+            "referer": "https://www.movie2k.io/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+{
+            "name": "BEIN 3",
+            "image": "https://ball67.com/assets/channels-logo/bein3.png",
+            "url": "https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8",
+            "referer": "https://www.movie2k.io/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
