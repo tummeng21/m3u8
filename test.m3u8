@@ -10,20 +10,6 @@ https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://www.livedoomovies.com:4431/02_sport5_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ball67.com/assets/channels-logo/bein1.png",BEIN 1
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://www.livedoomovies.com:4431/02_epl1_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ball67.com/assets/channels-logo/bein2.png",BEIN 2
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ball67.com/assets/channels-logo/bein3.png",BEIN 3
-#EXTVLCOPT:http-referrer=https://www.movie2k.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.img05.xyz/assets/img/ch_logo/PL_Mono2.jpg",MONOMAX2
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
