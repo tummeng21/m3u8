@@ -1,85 +1,51 @@
-{
-    "name": "test",
-    "author": " update",
-    "image": "https://play-lh.googleusercontent.com/JT8xNlmw6JaAii2dAwd3v8XIRhWaFqR_uLnpuVrEIYARbi9q9WbTKzVTaBwqpALuEV8",
-    "url": "https://raw.githubusercontent.com/abh210022/mom-auto/refs/heads/main/MOM.w3u",
-    "stations": [
-{
-            "name": "True Sports 2",
-            "image": "https://ball67.com/assets/channels-logo/truesport2.png",
-            "url": "https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8",
-            "referer": "https://www.movie2k.io/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-{
-            "name": "True Sports 5",
-            "image": "https://ball67.com/assets/channels-logo/truesport5.png",
-            "url": "https://www.livedoomovies.com:4431/02_sport5_720p/playlist.m3u8",
-            "referer": "https://www.movie2k.io/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-{
-            "name": "BEIN 1",
-            "image": "https://ball67.com/assets/channels-logo/bein1.png",
-            "url": "https://www.livedoomovies.com:4431/02_epl1_720p/playlist.m3u8",
-            "referer": "https://www.movie2k.io/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-{
-            "name": "BEIN 2",
-            "image": "https://ball67.com/assets/channels-logo/bein2.png",
-            "url": "https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8",
-            "referer": "https://www.movie2k.io/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-{
-            "name": "BEIN 3",
-            "image": "https://ball67.com/assets/channels-logo/bein3.png",
-            "url": "https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8",
-            "referer": "https://www.movie2k.io/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-{
-"name":"MONOMAX2",
-"image":"https://www.img05.xyz/assets/img/ch_logo/PL_Mono2.jpg",
-"url":"https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8",
-"referer":"https://www.movie2k.io/", 
-"info":"Server movie2k",                              
-"playInNatPlayer":"true"},
+#EXTM3U
 
-{
-"name":"True Premier Football 3",
-"image":"https://dookeela2.live/uploads/1664499681.png",              
-"url":"https://cdn1.googlecdnforstreaming.live/live/tpf3/chunks.m3u8",
-"referer":"https://warpdooball.net/", 
-"info":"Server warpdooball.net",                              
-"playInNatPlayer":"true"},
+#EXTINF:-1 tvg-logo="https://ball67.com/assets/channels-logo/truesport2.png",True Sports 2
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ball67.com/assets/channels-logo/truesport5.png",True Sports 5
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://www.livedoomovies.com:4431/02_sport5_720p/playlist.m3u8
 
-{
-"name":"BeinSport1",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
-"url":"https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
-"referer":"https://warpdooball.net/",
-"info":"Server warpdooball",
-"playInNatPlayer":"true"},
+#EXTINF:-1 tvg-logo="https://ball67.com/assets/channels-logo/bein1.png",BEIN 1
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://www.livedoomovies.com:4431/02_epl1_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ball67.com/assets/channels-logo/bein2.png",BEIN 2
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
 
-{
-"name":"BeinSport2",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
-"url":"https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8",
-"referer":"https://warpdooball.net/",
-"info":"Server warpdooball",
-"playInNatPlayer":"true"},
+#EXTINF:-1 tvg-logo="https://ball67.com/assets/channels-logo/bein3.png",BEIN 3
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.img05.xyz/assets/img/ch_logo/PL_Mono2.jpg",MONOMAX2
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8
 
-{
-"name":"BeinSport3",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
-"url":"https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8",
-"referer":"https://warpdooball.net/",
-"info":"Server warpdooball",
-"playInNatPlayer":"true"}
- ]
-}
+#EXTINF:-1 tvg-logo="https://dookeela2.live/uploads/1664499681.png",True Premier Football 3
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn1.googlecdnforstreaming.live/live/tpf3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",BeinSport1
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",BeinSport2
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",BeinSport3
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8
