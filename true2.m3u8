@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000
+#EXTVLCOPT:http-referrer=https://www.movie2k.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8
