@@ -1,4 +1,9 @@
-
+{
+    "name": "test",
+    "author": " update",
+    "image": "https://play-lh.googleusercontent.com/JT8xNlmw6JaAii2dAwd3v8XIRhWaFqR_uLnpuVrEIYARbi9q9WbTKzVTaBwqpALuEV8",
+    "url": "https://raw.githubusercontent.com/abh210022/mom-auto/refs/heads/main/MOM.w3u",
+    "stations": [
 {
             "name": "True Sports 2",
             "image": "https://ball67.com/assets/channels-logo/truesport2.png",
@@ -75,4 +80,6 @@
 "url":"https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8",
 "referer":"https://warpdooball.net/",
 "info":"Server warpdooball",
-"playInNatPlayer":"true"},
+"playInNatPlayer":"true"}
+ ]
+}
