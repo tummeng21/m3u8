@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1
-#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
