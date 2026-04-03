@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000
 #EXTVLCOPT:http-referrer=https://www.movie2k.io/
