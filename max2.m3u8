@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000
-#EXTVLCOPT:http-referrer=https://tubtoeball.net/
 https://cdn2.googlecdnforstreaming.live/tubtoeball/monomax-2/chunks.m3u8
