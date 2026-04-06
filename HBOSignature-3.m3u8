@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2"
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=1776085&extension=m3u8
