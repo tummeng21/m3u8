@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=985163&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:C0:1C:74&stream=250663&extension=m3u8
