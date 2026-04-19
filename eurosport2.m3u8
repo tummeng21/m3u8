@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1458643&extension=m3u8
+http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97121&extension=m3u8
