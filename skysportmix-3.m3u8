@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=10513&extension=m3u8
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1458657&extension=m3u8
