@@ -4,5 +4,3 @@
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1471382&extension=ts&play_token=
 #EXTINF:-1  tvg-logo="https://ia600608.us.archive.org/4/items/sky-sports-main-event-uhd//Sky_Sports_Main_Event_UHD.png" group-title="@UHDs@ SKY SP", SKY SP MAIN EVENT UHD
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1608071&extension=ts&play_token=
-#EXTINF:-1  tvg-logo="https://sk-cricketlive.pages.dev/logo/skycri.png" group-title="@UHDs@ SKY SP", SKY SP CRICKET HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:7B:AC:38&stream=1520176&extension=ts&play_token=
