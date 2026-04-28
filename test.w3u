@@ -1,0 +1,4 @@
+#EXTM3U 
+
+#EXTINF:-1  tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta9409abe5001a140/6400bce3ec12cd34d006003f/Sky_Sports_F1_UHD_PRIMARY_RGB.png?imageManager=true&impolicy=resize&height=360", SKY F1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1471382&extension=ts
