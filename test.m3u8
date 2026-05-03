@@ -1,0 +1,657 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY SPORTS MAIN EVENTS UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1608071&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY SPORTS UHD [EVENT]
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1471387&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY SPORTS 1 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1608068&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY SPORTS 2 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1608069&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY SPORTS F1 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1761500&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY SPORTS DARTS UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1471382&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| TNT ULTIMATE 4K+ [LIVE-EVENT]
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1595637&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| TNT SPORTS UHD [EVENT]
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1479591&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| ULTRA CINEMA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1479590&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SPORTSNET 360 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1470603&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| ESPN UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1481941&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| ELEVEN SPORTS 1 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1470618&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| ZIGGO SPORT UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1481950&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| OUR SIBERIA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1471378&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| V SPORT+ UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1632123&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| KINO UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1470620&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4k| V SPORT UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1749221&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4k| YES SPORT 5 UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1749220&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4k| QUADRO UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1749219&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| DIGI UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1632122&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4k| TF1 HDR/UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1640379&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4k| NESN UHD/4K+
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1124351&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4k| IRIB HDR/UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1640385&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| ELEVEN PL UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948662&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| ELEVEN SPORTS PL UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948661&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| ELEVEN SPORTS 1 UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948660&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| LA 1 UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948659&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| MOVISTAR  LALIGA 2 UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948658&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| TRAVEL XP CA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948656&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| NOW SPORTS UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948655&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| TSN WEST CA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948654&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| STINGRAY NOW CA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948653&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| STINGRAY FESTIVAL CA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948652&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| STINGRAY AMBIANCE CA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948651&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SPORTSNET ONE CA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948650&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SPORTSNET CA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948649&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| REVELTV CA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948648&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| INULTRA CA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948647&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| TSN SENATORS CA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948646&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| TSN LEAFS CA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948645&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SPORTSNET ONE CA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948644&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| ULTRA REX RU UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948643&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| ULTRA CINEMA RU UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948642&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| QUADRO RU UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948641&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| ODISEA ES UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948640&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| DECASA UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948639&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| OUR SIBERIA RU UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948638&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| KINO RU UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948637&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| NOW SPORTS HK UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948636&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| MUSEUM MULTI UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948634&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| MUSEUM UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948633&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| FRANCE 2 FR UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948631&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SLOW ES UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948630&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| DECASA ES UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948629&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| BEIN UHD/4K NM
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948627&extension=ts
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80" group-title="4K UHD 3840P",4K| NOW SPORTS PREMIER LEAGUE UHD/4K NM
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948624&extension=ts
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80" group-title="4K UHD 3840P",4K| NOW SPORTS PREMIER LEAGUE UHD/4K NM
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1579367&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" group-title="4K UHD 3840P",4K| HUB PREMIER 2 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1579368&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| M+ LALIGA TV UHD/4K NM
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948619&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| RAI 1 UHD/4K NM
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1948617&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| THROUGH THE EYES OF A TOURIST UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1774383&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY SPORT 4K [LIVE-EVENT]
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1753227&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4k| ULTRA REX UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1640388&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| LOVE NATURE UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1471386&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| MUSEUM UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1632124&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| BLOOMBERG UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1470604&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| CNN UHD 4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1470653&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| COCINA UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1471385&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| DECASA UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1471384&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| LA 1 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1620282&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| BLOOMBERG+ UHD/4K
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1491209&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| QVC UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1491207&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| ODISEA UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1471383&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 1 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1491180&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 2 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1491181&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 3 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1491183&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 4 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1491184&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 5 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1491185&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 6 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1491186&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 7 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1491187&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 8 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1491188&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 9 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1491189&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80" group-title="ENGLISH PREMIER LEAGUE",UK| NOW HK PREMIER SPORTS 1
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032487&extension=ts
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80" group-title="ENGLISH PREMIER LEAGUE",UK| NOW HK PREMIER SPORTS 2
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032486&extension=ts
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80" group-title="ENGLISH PREMIER LEAGUE",UK| NOW HK PREMIER SPORTS 3
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032485&extension=ts
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_110_80" group-title="ENGLISH PREMIER LEAGUE",UK| NOW HK PREMIER SPORTS 4
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032484&extension=ts
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_110_80" group-title="ENGLISH PREMIER LEAGUE",UK| NOW HK PREMIER SPORTS 5
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032483&extension=ts
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_110_80" group-title="ENGLISH PREMIER LEAGUE",UK| NOW HK PREMIER SPORTS 6
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032482&extension=ts
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch627_110_80" group-title="ENGLISH PREMIER LEAGUE",UK| NOW HK PREMIER SPORTS 7
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032481&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png" group-title="ENGLISH PREMIER LEAGUE",UK| HUB PREMIER 1 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032529&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" group-title="ENGLISH PREMIER LEAGUE",UK| HUB PREMIER 2 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032528&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" group-title="ENGLISH PREMIER LEAGUE",UK| HUB PREMIER 2 UHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032518&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png" group-title="ENGLISH PREMIER LEAGUE",UK| HUB PREMIER 3 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032527&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER4.png" group-title="ENGLISH PREMIER LEAGUE",UK| HUB PREMIER 4 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032526&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER5.png" group-title="ENGLISH PREMIER LEAGUE",UK| HUB PREMIER 5 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032525&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER6.png" group-title="ENGLISH PREMIER LEAGUE",UK| HUB PREMIER 6 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032524&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER7.png" group-title="ENGLISH PREMIER LEAGUE",UK| HUB PREMIER 7 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032523&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER8.png" group-title="ENGLISH PREMIER LEAGUE",UK| HUB PREMIER 8 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032522&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER9.png" group-title="ENGLISH PREMIER LEAGUE",UK| HUB PREMIER 9 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032521&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER10.png" group-title="ENGLISH PREMIER LEAGUE",UK| HUB PREMIER 10 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032520&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER11.png" group-title="ENGLISH PREMIER LEAGUE",UK| HUB PREMIER 11 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032519&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ENGLISH PREMIER LEAGUE",UK| ASTRO Football
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=918983&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ENGLISH PREMIER LEAGUE",UK| ASTRO Football
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1016545&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ENGLISH PREMIER LEAGUE",UK| ASTRO Grandstand
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=918984&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ENGLISH PREMIER LEAGUE",UK| ASTRO Premier League
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1016544&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ENGLISH PREMIER LEAGUE",UK| ASTRO Premier League 2 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=918985&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ENGLISH PREMIER LEAGUE",UK| ASTRO Premier League HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=918986&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png" group-title="ENGLISH PREMIER LEAGUE",NOR| V Sport ULTRA 4K+
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1387334&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png" group-title="ENGLISH PREMIER LEAGUE",NOR| V SPORT ULTRA HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1387341&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png" group-title="ENGLISH PREMIER LEAGUE",NOR| V SPORT PL FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1001366&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png" group-title="ENGLISH PREMIER LEAGUE",NOR| V SPORT PL 1 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1001365&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png" group-title="ENGLISH PREMIER LEAGUE",NOR| V SPORT PL 2 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1001364&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png" group-title="ENGLISH PREMIER LEAGUE",NOR| V SPORT PL 3 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1001363&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png" group-title="ENGLISH PREMIER LEAGUE",NOR| V SPORT PL 4 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1001362&extension=ts
+
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| SPORTS HEVC",##### SPORTS HEVC  ####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458683&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPLUS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS + FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458676&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS ACTION HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458664&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS ACTION HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458677&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS CRICKET HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458675&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS CRICKET HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458662&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS FOOTBALL HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458674&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS FOOTBALL HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458660&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS GOLF HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458673&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS GOLF HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458659&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS MAIN EVENTS HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458672&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS MAIN EVENTS HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458658&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS MIX HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458671&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS MIX HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458657&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS NEWS HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458681&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS NEWS HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458670&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS PREMIER LEAGUE HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458669&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS PREMIER LEAGUE HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458656&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS RACING HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458668&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS RACING HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458655&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS TENNIS HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458814&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS TENNIS HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458813&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSARENA.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS ARENA HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458663&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSDARTS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS DARTS HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458661&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 1 HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458678&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 1 HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458654&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 1 HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458667&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 2 HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458666&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 2 HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458653&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 3 HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458665&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 3 HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458652&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 4 HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458815&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 4 HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458651&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RACING.png" group-title="UK| SPORTS HEVC",UK| RACING UK HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458679&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RACING.png" group-title="UK| SPORTS HEVC",UK| RACING UK HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458680&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTSBOXOFFICE.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS BOX OFFICE HEVC
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458650&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS1.png" group-title="UK| SPORTS HEVC",UK| EUROSPORTS 1  HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1637558&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS1.png" group-title="UK| SPORTS HEVC",UK| EUROSPORTS 1  HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458649&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS1.png" group-title="UK| SPORTS HEVC",UK| EUROSPORTS 1 HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458644&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS2.png" group-title="UK| SPORTS HEVC",UK| EUROSPORTS 2 HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1637557&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS2.png" group-title="UK| SPORTS HEVC",UK| EUROSPORTS 2 HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458648&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS2.png" group-title="UK| SPORTS HEVC",UK| EUROSPORTS 2 HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458643&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png" group-title="UK| SPORTS HEVC",UK| PREMIER SPORTS 1 IRELAND HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458647&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png" group-title="UK| SPORTS HEVC",UK| PREMIER SPORTS 1 IRELAND HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458642&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS2.png" group-title="UK| SPORTS HEVC",UK| PREMIER SPORTS 2 IRELAND HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458641&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS2.png" group-title="UK| SPORTS HEVC",UK| PREMIER SPORTS 2 IRELAND HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458812&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DAZN1.png" group-title="UK| SPORTS HEVC",UK| DAZN PPV HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458638&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DAZN1.png" group-title="UK| SPORTS HEVC",UK| DAZN PPV HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458637&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="UK| SPORTS HEVC",UK| VIAPLAY 1 HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458646&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="UK| SPORTS HEVC",UK| VIAPLAY 2 HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458645&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="UK| SPORTS HEVC",UK| VIAPLAY 1 HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458640&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="UK| SPORTS HEVC",UK| VIAPLAY 2 HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458639&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png" group-title="UK| SPORTS HEVC",UK| LFC HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458774&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png" group-title="UK| SPORTS HEVC",UK| LFC HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458786&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png" group-title="UK| SPORTS HEVC",UK| MUTV HEVC FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458773&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png" group-title="UK| SPORTS HEVC",UK| MUTV HEVC HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458772&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### BEIN SPORTS #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=238271&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 1 EN FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=483921&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 1 EN HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=49226&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 2 EN FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=483920&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 2 EN HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=49225&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 1 EN SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=735946&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 1 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=238265&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 1 PREMIUM HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=238261&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 2 EN SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=735945&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 2 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=238264&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 2 PREMIUM HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=238262&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 3 EN SD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=735944&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 3 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=238266&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 3 PREMIUM HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=238263&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS4.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 4 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=238267&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS5.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 5 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=238268&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS6.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 6 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=238269&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 7 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=238270&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS AU 1
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1348093&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS AU 2
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1348102&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS AU 3
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1348103&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### BEIN SPORTS ASIA #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=923433&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS ASIA 1
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=923432&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| UK| BEIN SPORTS ASIA 2
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=923431&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| UK| BEIN SPORTS ASIA 3
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=923430&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### SUPER SPORTS #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239075&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS ACTION HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=425668&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS BLITZ HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=425310&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS CRICKET HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239087&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS EVENTS HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=425312&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS FOOTBALL HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239083&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS GOLF HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=425667&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS GRANDSTAND HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239079&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS LIGA HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239076&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS MAXIMO HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=425666&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS MOTORSPORT HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239082&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPER SPORTS PLAY 1 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=425313&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS PLAY 2 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=425311&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS PL HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239078&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS PSL HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239077&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS RUGBY HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239086&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS TENNIS HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=425314&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS VARIETY 1 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239081&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS VARIETY 2 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239080&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS VARIETY 3 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239085&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS VARIETY 4 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239084&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### UK ASTRO SPORTS #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=918987&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### UK DAZN SPORTS #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032552&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="UK| WORLD SPORTS",UK| DAZN EVENT 1
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032551&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="UK| WORLD SPORTS",UK| DAZN EVENT 2
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032550&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="UK| WORLD SPORTS",UK| DAZN EVENT 3
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032549&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="UK| WORLD SPORTS",UK| DAZN EVENT 4
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032548&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="UK| WORLD SPORTS",UK| DAZN EVENT 5
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032547&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="UK| WORLD SPORTS",UK| DAZN EVENT 6
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032546&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="UK| WORLD SPORTS",UK| DAZN EVENT 7
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032545&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### UK NOW SPORTS #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032490&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 1
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032479&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 2
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032478&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 3
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032477&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032476&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4K 616
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032489&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4K 617
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032488&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 5
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032475&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 6
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032474&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 7
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032473&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### UK OPTUS SPORTS #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032472&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/OPTUS.png" group-title="UK| WORLD SPORTS",UK| OPTUS 1 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032471&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/OPTUS.png" group-title="UK| WORLD SPORTS",UK| OPTUS 2 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032470&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/OPTUS.png" group-title="UK| WORLD SPORTS",UK| OPTUS 3 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032469&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/OPTUS.png" group-title="UK| WORLD SPORTS",UK| OPTUS 4 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032468&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/OPTUS.png" group-title="UK| WORLD SPORTS",UK| OPTUS 5 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032467&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/OPTUS.png" group-title="UK| WORLD SPORTS",UK| OPTUS 6 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032466&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/OPTUS.png" group-title="UK| WORLD SPORTS",UK| OPTUS 7 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032465&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/OPTUS.png" group-title="UK| WORLD SPORTS",UK| OPTUS 8 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032464&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/OPTUS.png" group-title="UK| WORLD SPORTS",UK| OPTUS 9 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032463&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/OPTUS.png" group-title="UK| WORLD SPORTS",UK| OPTUS 10 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032462&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/OPTUS.png" group-title="UK| WORLD SPORTS",UK| OPTUS 11 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032461&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/OPTUS.png" group-title="UK| WORLD SPORTS",UK| OPTUS 12 HD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032460&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### UK PEACKOCK SPORTS #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032459&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK NBCSPORTS
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032458&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK PREMIERLEAGUE
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032457&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK 1
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032456&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK 2
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032455&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK 3
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032454&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK 4
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032453&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK 5
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032452&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK 6
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032451&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK 7
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032450&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK 8
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032449&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK 9
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032448&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK 10
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032447&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK 11
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032446&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK 12
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032445&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/Peacock.png" group-title="UK| WORLD SPORTS",UK| PEACOCK 13
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032444&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### UK SETANTA SPORTS #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032443&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="UK| WORLD SPORTS",UK| SETANTA SPORTS 0
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032442&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="UK| WORLD SPORTS",UK| SETANTA SPORTS 1
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032441&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="UK| WORLD SPORTS",UK| SETANTA SPORTS 2
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032440&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="UK| WORLD SPORTS",UK| SETANTA SPORTS 3
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032439&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="UK| WORLD SPORTS",UK| SETANTA SPORTS 4
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032438&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="UK| WORLD SPORTS",UK| SETANTA SPORTS 5
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032437&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="UK| WORLD SPORTS",UK| SETANTA SPORTS 6
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032436&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="UK| WORLD SPORTS",UK| SETANTA SPORTS 7
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032435&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="UK| WORLD SPORTS",UK| SETANTA SPORTS 8
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032434&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="UK| WORLD SPORTS",UK| SETANTA SPORTS 9
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032433&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="UK| WORLD SPORTS",UK| SETANTA SPORTS 10
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032432&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="UK| WORLD SPORTS",UK| SETANTA SPORTS 11
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032431&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="UK| WORLD SPORTS",UK| SETANTA SPORTS 12
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032430&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### UK SPARK SPORTS #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032501&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SPARKSPORTS.png" group-title="UK| WORLD SPORTS",UK| SPARK SPORTS 1 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032500&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SPARKSPORTS.png" group-title="UK| WORLD SPORTS",UK| SPARK SPORTS 2 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032499&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SPARKSPORTS.png" group-title="UK| WORLD SPORTS",UK| SPARK SPORTS 3 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032498&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SPARKSPORTS.png" group-title="UK| WORLD SPORTS",UK| SPARK SPORTS 4 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032497&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SPARKSPORTS.png" group-title="UK| WORLD SPORTS",UK| SPARK SPORTS 5 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032496&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SPARKSPORTS.png" group-title="UK| WORLD SPORTS",UK| SPARK SPORTS 6 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032495&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SPARKSPORTS.png" group-title="UK| WORLD SPORTS",UK| SPARK SPORTS 7 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032494&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SPARKSPORTS.png" group-title="UK| WORLD SPORTS",UK| SPARK SPORTS 8 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032493&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SPARKSPORTS.png" group-title="UK| WORLD SPORTS",UK| SPARK SPORTS 9 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032492&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SPARKSPORTS.png" group-title="UK| WORLD SPORTS",UK| SPARK SPORTS 10 FHD
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032491&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### UK STAN SPORTS #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032429&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 1
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032428&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 2
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032427&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 3
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032426&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 4
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032425&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 5
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032424&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 6
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032423&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 7
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032422&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 8
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032421&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 9
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032420&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 10
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032419&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 11
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032418&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 12
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032417&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 13
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032416&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 14
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032415&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 15
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032414&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 16
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032413&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 17
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032412&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 18
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032411&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 19
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032410&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/STANAUEVENT.png" group-title="UK| WORLD SPORTS",UK| STAN AU EVENT 20
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032409&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### UK VIDIO SPORTS #####
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032517&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 01
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032516&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 02
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032515&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 03
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032514&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 04
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032513&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 05
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032512&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 06
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032511&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 07
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032510&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 08
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032509&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 09
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032508&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 10
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032507&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 11
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032506&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 12
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032505&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 13
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032504&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 14
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032503&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIDIO.png" group-title="UK| WORLD SPORTS",UK| VIDIO LIVE EVENTS | 15
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1032502&extension=ts
