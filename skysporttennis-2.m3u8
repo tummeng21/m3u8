@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1458814&extension=m3u8
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458813&extension=ts
