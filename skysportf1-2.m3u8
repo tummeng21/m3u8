@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3200000
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1761500&extension=m3u8
+https://love.sayob28681.workers.dev:443/vx-origin/uk-skysports-f1_720/playlist.m3u8
