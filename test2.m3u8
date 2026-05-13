@@ -1,10 +1,21 @@
 {
-"name": "WisePlay Online","author": "Tum Meng","image":"https://img5.pic.in.th/file/secure-sv1/4458.jpg","groups":
- [
-
-{"name": "TV 1","image":"https://raw.githubusercontent.com/tummeng21/logo/main/digital.png","stations": [
- 
-{
+  "name": "🅳🆄🅵🆁🅴🅴",
+  "author": "🌎 101.109.1.214",
+  "image": "https://cdn.dufreeapi.uk/dufreedd.png",
+  "url": "https://main.dufreeapi.uk",
+  "groups": [
+    
+    {
+      "name": "Digital TV",
+      "author": "Update 29/4/69",
+      "image": "https://copytv.vercel.app/PK/DigitalTV3.png",
+      "info": "555555",
+      "groups": [
+        {
+          "name": "TV 1",
+          "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JxZTR6c204ejR6enZtd2Zra2I5Y2Y4ODAwMmRlY2JnNmViMm51ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26xBIU23YI2sywtqw/giphy.gif",
+          "stations": [
+            {
               "name": "3HD",
               "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",
               "url": "https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8",
@@ -355,15 +366,13 @@
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
               "playInNatPlayer": "true"
             }
-
-]
-
-},
-{"name": "TV 2","image":"https://raw.githubusercontent.com/tummeng21/logo/main/movie.png","stations": 
-
-[
-
-{
+          ]
+        },
+        {
+          "name": "TV 2",
+          "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW54dDU1azNlYXUzcnN0Nzljbzk2Y3Z1YmFyODE2YXcwd2RnY3drayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3q2UVYZB3wxQz8KQ/giphy.gif",
+          "stations": [
+            {
               "name": "CH 3",
               "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
               "url": "https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0003/HLS/B0003-avc1_5000000=10004-mp4a_9600_tha=20000.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=c665422c184405f3c7b6e2f45520b7c1&chunkHttps=true&tmid=B0003&tpbk=Uy1SJy8tSaO7sGw2&rrt=1777486281&tmod=rfk&rsid=3d6206b6-7045-4767-8fed-db53c10138db&tuid=09194712d8&cdn=redfox-https&tdid=8d2174919041f976a214a5ad8a720a8f&origin=anevia&tfa=f0-fc&tttl=1777572679",
@@ -690,13 +699,13 @@
               "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
               "playInNatPlayer": "true"
             }
-
-
-]
-},
-{"name": "TV 3","image":"https://raw.githubusercontent.com/tummeng21/logo/main/doc.png","stations": [
-
-{
+          ]
+        },
+        {
+          "name": "TV 3",
+          "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlsd25zMDNqZmV4c3MzcThodTlsMjR4MWZzYnlrNHlmenM2bXFxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3q307MLpriVVQiRi/giphy.gif",
+          "stations": [
+            {
               "name": "Boomerang",
               "image": "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg",
               "url": "https://mvtv.co.th/play/play_mvtv.php?no=153&channel=Boomerang",
@@ -876,14 +885,13 @@
               "url": "https://mvtv.co.th/play/play_mvtv.php?no=188&channel=Mango%20Mojito",
               "referer": "https://mvtv.co.th/"
             }
-
-
-]
-},
-{"name": "TV 4","image":"https://raw.githubusercontent.com/tummeng21/logo/main/cartoon.png","stations": 
-[
-
-{
+          ]
+        },
+        {
+          "name": "TV 4",
+          "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnIyaGp3NG9rZHV4YXVvZjAxNGljMmcwdXFqNHRqc3NubnUxaXJ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3q2zuvPyBOxY71aE/giphy.gif",
+          "stations": [
+            {
               "name": "TRUE Golf Channel",
               "image": "https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",
               "url": "https://config-m3u8.mquanggiu290.workers.dev/truegolf.m3u8?token=vip1234",
@@ -3181,12 +3189,7 @@
             }
           ]
         }
- 
-
-]
-
-},
-
-]
+      ]
+    }
+  ]
 }
-
