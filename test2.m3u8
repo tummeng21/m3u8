@@ -4,33 +4,7 @@
   "image": "https://cdn.dufreeapi.uk/dufreedd.png",
   "url": "https://main.dufreeapi.uk",
   "groups": [
-    {
-      "name": "Online 🌍 12 👤",
-      "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVpa2xpbWR2dnFydGFtaXEwYTBjNXM1cW15ZzQ1YTE0cWs5Zno3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RiE7uJn2OVKyebTJLM/giphy.gif",
-      "url": "https://test.dufreeapi.uk/?key=dufree999"
-    },
-    {
-      "name": "📅 13/5/69 ⌚ 08:50:13",
-      "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpnbmo3cHVldWRkN25xYmQxeXRreTZucjFnYXRhNzdlejV6ejV0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5dW2vENcEuHH1jTVPd/giphy.gif",
-      "url": "https://test.dufreeapi.uk/?key=dufree999"
-    },
-    {
-      "name": "📢 แจ้งข่าวสาร",
-      "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGY4MWpyeGl4cmZ0bWwzYmZmZXR1eHV5dnBqa2dlZGo4NnZ5YXJpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZMvmVuXJAYg1hNkITT/giphy.gif",
-      "stations": [
-        {
-          "name": "📢 ข่าว",
-          "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1kcDl1aWJoZHFrbm5zazQxdWh1a3p4M29pa3NjaDlmeHYxcWpvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tMntx816Zfrt3S1ZqI/giphy.gif",
-          "info": "แค่ทดสอบระบบ ดูแบบเงียบๆ ลิ้งไหนดับแจ้งมาในกลุ่ม หรือ อยากได้ช่องไหน จะลองหาให้ค่ะ"
-        },
-        {
-          "name": "📢 เข้ากลุ่ม LINE",
-          "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ0Nmx6Z2ZtNjI3b3A1Z3hqd2Q2NGQ1dzh5NnlsYmptM3F6bWFhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/chWLik9uddHFYRFEeu/giphy.gif",
-          "url": "https://line.me/ti/g2/0schcT7M_kdPhL-QI5Dcs5ucTrjaKr15PnpUSA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
-          "embed": "true"
-        }
-      ]
-    },
+    
     {
       "name": "Digital TV",
       "author": "Update 29/4/69",
