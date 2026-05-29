@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=1163765&extension=m3u8
-
+https://liveera.live/demo_app/1606/playlist.m3u8
