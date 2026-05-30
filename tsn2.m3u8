@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://line.ciao-ott.net:80/play/live.php?mac=00:1B:79:25:19:1F&stream=902071&extension=ts
+http://line.ciao-ott.net:80/play/live.php?mac=00:1B:79:25:19:1F&stream=902071&extension=m3u8
