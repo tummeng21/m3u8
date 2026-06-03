@@ -2,11 +2,13 @@
   "users": [
     {
       "username": "admin",
-      "password": "1234"
+      "password": "1234",
+      "expire": "2027-12-31"
     },
     {
       "username": "test",
-      "password": "abcd"
+      "password": "abcd",
+      "expire": "2026-09-03"
     }
   ]
 }
