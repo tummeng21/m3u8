@@ -1,3 +1,9 @@
+{         
+"name":"Sport Thai",
+"image":"https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg", 
+"author":"เด็กปากพนังน่ะครับ",	  
+"stations": 
+[
 {
 "name": "FILMhd",
 "image": "https://raw.githubusercontent.com/tummeng21/logo/main/thairath.png",
@@ -12,4 +18,6 @@
 "url": "https://config-m3u8.mquanggiu290.workers.dev/th-aismax01_480.m3u8?token=vip1234",
 "referer": "https://liveiptvthai.vercel.app/",
 "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+}
+]
 }
