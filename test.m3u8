@@ -13,9 +13,9 @@
 "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
 },
 {
-"name": "ONE HD",
+"name": "hd-dreamworks_720",
 "image": "https://raw.githubusercontent.com/tummeng21/logo/main/one.png",
-"url": "https://config-m3u8.mquanggiu290.workers.dev/th-aismax01_480.m3u8?token=vip1234",
+"url": "https://config-m3u8.mquanggiu290.workers.dev/hd-dreamworks_720.m3u8?token=vip1234",
 "referer": "https://liveiptvthai.vercel.app/",
 "Origin": "https://liveiptvthai.vercel.app/",
 "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
