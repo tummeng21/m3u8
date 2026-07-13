@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000
-http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115720&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776088&extension=m3u8
